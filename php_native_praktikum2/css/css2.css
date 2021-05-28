@@ -1,0 +1,11 @@
+#kotak{
+    width: 400px;
+    height: 50px;
+    border-style: solid;
+}
+
+#tombol {
+    border-radius: 3px;
+    background-color: aquamarine;
+    font-family: cursive;
+}
